@@ -1,0 +1,39 @@
+.cell {
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+}
+
+.edge-cell {
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    height: 50px;
+    width: 50px;
+    background-color: rgb(234, 134, 134);
+}
+
+.emoji {
+    /* 😋*/
+    background-color: rgb(139, 225, 139);
+    font-family: 'Font Awesome 5 Free';
+    content: '\f55b';
+}
+
+.row {
+    display: flex;
+}
+
+
+/* .myCanvas {
+    background-color: rgb(236, 18, 127);
+    border: 4px solid blue;
+    display: block;
+    margin: auto;
+} */
+
+
+/* #gameBoard {
+    background-color: rgb(236, 18, 127);
+} */
